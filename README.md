@@ -1,1 +1,1 @@
-Sapotkawit is Cloud4Wi webhooks project
+Webhooks project
